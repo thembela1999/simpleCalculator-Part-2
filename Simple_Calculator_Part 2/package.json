@@ -1,0 +1,11 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "main": "oop.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "anda",
+  "license": "ISC",
+  "description": ""
+}
